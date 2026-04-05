@@ -1,0 +1,34 @@
+name: Update Traffic Info
+on:
+  schedule:
+    - cron: '0 * * * *' # Обновление каждый час
+  workflow_dispatch: # Кнопка ручного запуска
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Info
+        run: |
+          # Считаем дни (0.5 ГБ в день имитации)
+          START_DATE=$(date -d "2024-06-01" +%s)
+          NOW=$(date +%s)
+          DIFF=$(( (NOW - START_DATE) / 86400 ))
+          
+          # Трафик и твои данные
+          USED=$(( DIFF * 536870912 ))
+          TOTAL=999999999999999999
+          EXPIRE=3803752800
+          
+          # ВАЖНО: Используем правильное имя файла NOTHINGV5 без .txt
+          # Заменяем первую строку
+          sed -i "1s|.*|#subscription-userinfo: upload=0; download=$USED; total=$TOTAL; expire=$EXPIRE|" NOTHINGV5
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add NOTHINGV5
+          git commit -m "Auto-update NOTHINGV5 info" || exit 0
+          git push
