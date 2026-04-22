@@ -1,0 +1,46 @@
+name: Update Traffic Info
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Обновление каждый час
+  workflow_dispatch: # Кнопка ручного запуска
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Info
+        run: |
+          # 1. Устанавливаем дату начала: 22 апреля 2026, 20:00
+          START_DATE=$(date -d "2026-04-22 20:00:00" +%s)
+          NOW=$(date +%s)
+          
+          # 2. Считаем разницу в днях (если время еще не пришло, будет 0)
+          DIFF=$(( (NOW - START_DATE) / 86400 ))
+          if [ $NOW -lt $START_DATE ]; then
+            DIFF=0
+          fi
+          
+          # 3. Трафик (USED) — имитация 0.5 ГБ в день
+          USED=$(( DIFF * 536870912 ))
+          
+          # 4. Бесконечный лимит (в конфигах прокси 'total=0' означает Unlimited)
+          TOTAL=0
+          
+          # 5. Срок действия — через 100 лет от текущей даты
+          EXPIRE=$(date -d "+100 years" +%s)
+          
+          # 6. Записываем данные в файл NOTHINGV5
+          # Заменяем первую строку файла
+          sed -i "1s|.*|#subscription-userinfo: upload=0; download=$USED; total=$TOTAL; expire=$EXPIRE|" NOTHINGV5
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add NOTHINGV5
+          # Коммит только если есть изменения, чтобы не сыпать ошибками
+          git commit -m "Auto-update NOTHINGV5: start 2026-04-22, unlimited traffic" || exit 0
+          git push
