@@ -12,13 +12,13 @@ jobs:
       - name: Update Info
         run: |
           # Считаем дни (0.5 ГБ в день имитации)
-          START_DATE=$(date -d "2024-06-01" +%s)
+          START_DATE=$(date -d "2026-04-22 20:00:00" +%s)
           NOW=$(date +%s)
           DIFF=$(( (NOW - START_DATE) / 86400 ))
           
           # Трафик и твои данные
           USED=$(( DIFF * 536870912 ))
-          TOTAL=999999999999999999
+          TOTAL=0
           EXPIRE=3803752800
           
           # ВАЖНО: Используем правильное имя файла NOTHINGV5 без .txt
