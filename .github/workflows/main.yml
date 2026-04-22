@@ -1,0 +1,51 @@
+name: Update Traffic Info
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Обновление в начале каждого часа
+  workflow_dispatch: # Кнопка ручного запуска
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Info
+        run: |
+          # 1. Точка отсчета: 22 апреля 2026, 20:00
+          START_DATE=$(date -d "2026-04-22 20:00:00" +%s)
+          NOW=$(date +%s)
+          
+          # 2. Считаем, сколько полных часов прошло
+          SECONDS_DIFF=$(( NOW - START_DATE ))
+          if [ $SECONDS_DIFF -lt 0 ]; then
+            HOURS_PASSED=0
+          else
+            HOURS_PASSED=$(( SECONDS_DIFF / 3600 ))
+          fi
+          
+          # 3. Фиксированная прибавка за каждый час (например, 25 МБ = 26214400 байт)
+          # За 12 часов прибавится 300 МБ, за сутки 600 МБ
+          TRAFFIC_PER_HOUR=26214400
+          CURRENT_TRAFFIC=$(( HOURS_PASSED * TRAFFIC_PER_HOUR ))
+          
+          USED_DL=$CURRENT_TRAFFIC
+          USED_UL=$CURRENT_TRAFFIC
+          
+          # 4. Лимит 1 Петабайт (для отображения полоски)
+          TOTAL=1125899906842624
+          
+          # 5. Срок действия до 2090 года
+          EXPIRE=3803752800
+          
+          # 6. Запись в файл NOTHINGV5
+          sed -i "1s|.*|#subscription-userinfo: upload=$USED_UL; download=$USED_DL; total=$TOTAL; expire=$EXPIRE|" NOTHINGV5
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add NOTHINGV5
+          git commit -m "Auto-update: hourly step, DL=UL" || exit 0
+          git push
