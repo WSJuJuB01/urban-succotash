@@ -1,0 +1,55 @@
+name: Update Traffic Info
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Info
+        run: |
+          # 1. Считаем время и трафик
+          START_DATE=$(date -d "2026-04-22 20:00:00" +%s)
+          NOW=$(date +%s)
+          
+          SECONDS_DIFF=$(( NOW - START_DATE ))
+          [ $SECONDS_DIFF -lt 0 ] && SECONDS_DIFF=0
+          HOURS_PASSED=$(( SECONDS_DIFF / 3600 ))
+          
+          BASE_TRAFFIC=524288000
+          HOURLY_ADD=$(( HOURS_PASSED * 26214400 ))
+          TOTAL_USED=$(( BASE_TRAFFIC + HOURLY_ADD ))
+          
+          USED_DL=$TOTAL_USED
+          USED_UL=$TOTAL_USED
+          TOTAL=1125899906842624
+          EXPIRE=3803752800
+          
+          # 2. Новая техническая строка
+          INFO_LINE="#subscription-userinfo: upload=$USED_UL; download=$USED_DL; total=$TOTAL; expire=$EXPIRE"
+          
+          # 3. УМНОЕ ОБНОВЛЕНИЕ:
+          # Удаляем только старую строку subscription-userinfo, всё остальное (включая твой анонс) оставляем как есть
+          if [ -f NOTHINGV5 ]; then
+            # Убираем только строку с userinfo, сохраняем всё остальное во временный файл
+            grep -v "subscription-userinfo:" NOTHINGV5 > body.tmp
+            # Записываем новую инфо-строку и добавляем сохраненный остаток
+            echo "$INFO_LINE" > NOTHINGV5
+            cat body.tmp >> NOTHINGV5
+            rm body.tmp
+          else
+            echo "$INFO_LINE" > NOTHINGV5
+          fi
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add NOTHINGV5
+          git commit -m "Update traffic only, keeping announce line intact" || exit 0
+          git push
