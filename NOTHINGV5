@@ -16,7 +16,11 @@ vless://0a7cfefe-fcba-4298-98a9-e200a4c55848@185.215.187.28.muslimtr.ru:443?mode
 
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@178.72.181.86:52006?security=tls&encryption=none&echfq=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE+Finland
 
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@45.43.92.245:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#YouTube
+vless://832f76f8-fca3-4efa-80be-870e123ad764@87.249.49.51.vhub.pro:443?mode=gun&security=tls&encryption=none&authority=&echfq=none&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=87.249.49.51.vhub.pro#%F0%9F%87%B7%F0%9F%87%BA+YouTube%C2%B9+no+ads
+
+vless://832f76f8-fca3-4efa-80be-870e123ad764@45.90.34.104.vhub.pro:443?mode=gun&security=tls&encryption=none&authority=&echfq=none&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=45.90.34.104.vhub.pro#%F0%9F%87%B7%F0%9F%87%BA+YouTube%C2%B2+no+ads
+
+vless://832f76f8-fca3-4efa-80be-870e123ad764@217.114.8.37.vhub.pro:443?mode=gun&security=tls&encryption=none&authority=&echfq=none&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=217.114.8.37.vhub.pro#%F0%9F%87%B7%F0%9F%87%BA+YouTube%C2%B3+no+ads
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&type=tcp#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%E2%AC%87%EF%B8%8F
 
