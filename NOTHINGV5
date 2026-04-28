@@ -10,7 +10,7 @@ vless://832f76f8-fca3-4efa-80be-870e123ad764@94.156.122.179.vhub.pro:443?mode=gu
 
 vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru#%F0%9F%87%B3%F0%9F%87%B1+Netherlands
 
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@fi.appav.online:2083?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=apple.com&sid=6da16b1335651b38#%F0%9F%87%AB%F0%9F%87%AE+Finland
+vless://8e66502a-83ca-0003-a3b5-a65daf457ecf@fi.rush-server.com:443?security=reality&encryption=none&echfq=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=93ae75024604f796#%F0%9F%87%AB%F0%9F%87%AE+Finland
 
 vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@77.239.126.152:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#%F0%9F%87%AA%F0%9F%87%AA+Estonia
 
