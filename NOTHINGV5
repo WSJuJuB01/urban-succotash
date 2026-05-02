@@ -26,7 +26,11 @@ vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@77.239.126.152:7443?security=realit
 
 vless://832f76f8-fca3-4efa-80be-870e123ad764@95.85.246.16.speed-storage.ru:573?mode=gun&security=tls&encryption=none&authority=&echfq=none&fp=safari&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=95.85.246.16.speed-storage.ru#%F0%9F%87%B5%F0%9F%87%B1+Poland+%F0%9F%95%B9+Game
 
-vless://832f76f8-fca3-4efa-80be-870e123ad764@217.114.14.66.speed-storage.ru:573?mode=gun&security=tls&encryption=none&authority=&echfq=none&fp=safari&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=217.114.14.66.speed-storage.ru#%F0%9F%93%BA+Youtube+no+ads
+vless://0@0:443?mode=auto&security=reality&encryption=none&echfq=none&host=max.ru&fp=randomized&allowinsecure=0&type=xhttp&sni=web.max.ru#%E2%AC%87%EF%B8%8FYoutube+%D0%B1%D0%B5%D0%B7+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
+
+vless://832f76f8-fca3-4efa-80be-870e123ad764@45.9.40.59:443?echfq=none&fp=safari&type=grpc&serviceName=xraygrpc&sni=beget.com&sid=f90aeed7556dfefa&mode=gun&security=reality&encryption=none&authority=beget.com&pbk=khnGIUOADT3-1az3VHnyw_Ub363XmMr7yC5sttxyZzg&spx=%2Fapple-touch-icon-72x72-precomposed.png&allowinsecure=0#%F0%9F%93%BA+YouTube%C2%B9+no+ads
+
+vless://832f76f8-fca3-4efa-80be-870e123ad764@62.217.182.239.vhub.pro:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&echfq=none&fp=safari&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=62.217.182.239.vhub.pro#%F0%9F%93%BA+YouTube%C2%B2+no+ads
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&type=tcp#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%E2%AC%87%EF%B8%8F
 
