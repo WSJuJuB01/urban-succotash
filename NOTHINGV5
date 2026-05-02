@@ -22,8 +22,6 @@ vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?security=r
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?security=tls&allowinsecure=1&sni=vpn-vn-001.fastervpn.world#%F0%9F%87%BB%F0%9F%87%B3+Vietnam
 
-hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900?security=tls&allowinsecure=1&sni=www.microsoft.com#%F0%9F%8C%90+Anycast
-
 vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@77.239.126.152:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#%F0%9F%87%AA%F0%9F%87%AA+Estonia
 
 vless://832f76f8-fca3-4efa-80be-870e123ad764@95.85.246.16.speed-storage.ru:573?mode=gun&security=tls&encryption=none&authority=&echfq=none&fp=safari&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=95.85.246.16.speed-storage.ru#%F0%9F%87%B5%F0%9F%87%B1+Poland+%F0%9F%95%B9+Game
@@ -49,3 +47,11 @@ vless://da2d9e98-f486-43ec-8637-79089bc1f222@45.15.129.5:443?security=reality&en
 vless://da2d9e98-f486-43ec-8637-79089bc1f222@45.15.129.5:443?security=reality&encryption=none&alpn=http/1.1&echfq=none&pbk=tmRzdUIUtlS3-qqTIXF1FNRDn9gkIm4j1kdbb50OLC8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=62f140#%F0%9F%8F%B3%C2%B2+Meow+%3A3
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@64.188.77.66:8443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&fp=chrome&allowinsecure=0&type=grpc&serviceName=buysec.ru&sni=cdn.kwork.com&sid=10f786a2491b2cd5#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%8F%B4+Meow+%3A3
+
+vmess://eyJhZGQiOiIwMDAwMDDRhdGF0YUwMDAwMDAwIiwiYWlkIjoiMCIsImFsbG93aW5zZWN1cmUiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDAiLCJuZXQiOiJ4aHR0cCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJBbnljYXN0c+Ksh++4jyIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+
+vless://7c71bca8-1f80-435a-bb2d-0ad130d6d4f7@ru-2.hotservice.icu:2066?security=reality&encryption=none&echfq=none&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=d18f4e#%F0%9F%8C%90+Anycast
+
+hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900?security=tls&allowinsecure=1&sni=www.microsoft.com#%F0%9F%8C%90+Anycast_Hy2
+
+trojan://162534@217.60.248.94:8443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=cchh2.pages.dev&allowinsecure=1&type=ws&sni=cchh2.pages.dev#%F0%9F%8C%90+Anycast_Trojan
