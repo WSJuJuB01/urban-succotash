@@ -30,25 +30,392 @@ vless://832f76f8-fca3-4efa-80be-870e123ad764@217.114.14.66.speed-storage.ru:573?
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&type=tcp#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%E2%AC%87%EF%B8%8F
 
-vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@5.42.112.224:2443?security=reality&encryption=none&echfq=none&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=b8960f8a008648c1#%F0%9F%8F%B3+White+lists+1
+vless://fa7048d8-6686-4763-8f44-9827cdd2ddab@spark.frost-api.com:443?security=reality&encryption=none&echfq=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=01e7#%F0%9F%8F%B3+White+lists+1
 
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&spx=%2Fo7Aaf6fjwgbitolAe%3A&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%F0%9F%8F%B3+White+lists+2
+vless://fa7048d8-6686-4763-8f44-9827cdd2ddab@greeting.frost-api.com:443?security=reality&encryption=none&echfq=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4f61d0728e062b#%F0%9F%8F%B3+White+lists+2
 
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?security=reality&encryption=none&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%F0%9F%87%B7%F0%9F%87%BA+White+lists+3
+vless://fa7048d8-6686-4763-8f44-9827cdd2ddab@test.enigmabot.ru:443?security=reality&encryption=none&echfq=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=2533f2fb6230#%F0%9F%8F%B3+White+lists+3
 
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?security=tls&encryption=none&echfq=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA+White+lists+4
+vless://fa7048d8-6686-4763-8f44-9827cdd2ddab@node6.frost-api.com:443?security=reality&encryption=none&echfq=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=2533f2fb6230#%F0%9F%8F%B3+White+lists+4
 
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA+White+lists+5
+vless://fa7048d8-6686-4763-8f44-9827cdd2ddab@node2.frost-api.com:443?security=reality&encryption=none&echfq=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=513b0a#%F0%9F%8F%B3+White+lists+5
 
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?security=reality&encryption=none&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&spx=%2Fo7Aaf6fjwgbitolAe&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%F0%9F%87%B7%F0%9F%87%BA+White+lists+6
-
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%F0%9F%87%B7%F0%9F%87%BA+White+lists+7
-
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%F0%9F%87%B7%F0%9F%87%BA+White+lists+8
-
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%F0%9F%87%B7%F0%9F%87%BA+White+lists+9
-
-vless://a10040c6-5747-5e17-9667-172a0632cb7b@103.88.241.76:8443?mode=auto&path=%2Fxhttp&security=reality&encryption=none&echfq=none&pbk=XFcNrmwdN0VaYoHsgs52w8ZxCNxLecACb_TmFXengTI&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=cc71c3bd#%F0%9F%8F%B3+White+lists+10
+{
+  "dns": {
+    "tag": "dns-in",
+    "servers": [
+      {
+        "address": "https://1.1.1.1/dns-query",
+        "timeoutMs": 1000,
+        "unexpectedIPs:": [
+          "geoip:ru"
+        ]
+      },
+      {
+        "address": "https://8.8.8.8/dns-query",
+        "timeoutMs": 1000,
+        "unexpectedIPs:": [
+          "geoip:ru"
+        ]
+      },
+      {
+        "address": "https://9.9.9.9/dns-query",
+        "timeoutMs": 1000,
+        "finalQuery": true
+      },
+      {
+        "domain": [
+          "geosite:category-direct",
+          "domain:vhub.pro"
+        ],
+        "address": "udp+local://77.88.8.8",
+        "timeoutMs": 5000
+      }
+    ],
+    "serveStale": true,
+    "disableCache": false,
+    "queryStrategy": "UseIP",
+    "useSystemHosts": false,
+    "disableFallback": false,
+    "serveExpiredTTL": 0,
+    "enableParallelQuery": false,
+    "disableFallbackIfMatch": false
+  },
+  "policy": {
+    "levels": {
+      "0": {
+        "connIdle": 30,
+        "handshake": 8,
+        "bufferSize": 0,
+        "uplinkOnly": 2,
+        "downlinkOnly": 2
+      }
+    }
+  },
+  "remarks": "🇩🇪 White lists 6",
+  "routing": {
+    "rules": [
+      {
+        "port": "22,25,135-139,465,587,593,2525,3306,3389,5432,6379,11211,1900",
+        "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "domain": [
+          "geosite:category-block"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "type": "field",
+        "domain": [
+          "geosite:category-proxy"
+        ],
+        "balancerTag": "Balance"
+      },
+      {
+        "type": "field",
+        "domain": [
+          "geosite:category-direct"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:private"
+        ],
+        "type": "field",
+        "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "network": "tcp,udp",
+        "balancerTag": "Balance"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "Balance",
+        "selector": [
+          "mobile",
+          "germany"
+        ],
+        "strategy": {
+          "type": "leastLoad",
+          "settings": {
+            "costs": [
+              {
+                "match": "mobile.*",
+                "value": 2,
+                "regexp": true
+              },
+              {
+                "match": "germany.*",
+                "value": 1,
+                "regexp": true
+              }
+            ],
+            "maxRTT": "10s",
+            "expected": 1
+          }
+        },
+        "fallbackTag": "mobile"
+      }
+    ],
+    "domainMatcher": "hybrid",
+    "domainStrategy": "IPIfNonMatch"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true,
+        "auth": "noauth"
+      },
+      "sniffing": {
+        "enabled": true,
+        "routeOnly": false,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "settings": {
+        "allowTransparent": false
+      },
+      "sniffing": {
+        "enabled": true,
+        "routeOnly": false,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "germany",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.210.154.104.speed-storage.ru",
+            "port": 573,
+            "users": [
+              {
+                "id": "832f76f8-fca3-4efa-80be-870e123ad764",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "grpcSettings": {
+          "serviceName": "/sequre/grpc/",
+          "authority": "",
+          "mode": false
+        },
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "185.210.154.104.speed-storage.ru",
+          "fingerprint": "chrome"
+        },
+        "sockopt": {
+          "tcpFastOpen": true,
+          "happyEyeballs": {
+            "interleave": 1,
+            "tryDelayMs": 250,
+            "prioritizeIPv6": false,
+            "maxConcurrentTry": 4
+          },
+          "tcpcongestion": "bbr"
+        }
+      },
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 16,
+        "xudpProxyUDP443": "skip"
+      }
+    },
+    {
+      "tag": "germany-2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.210.154.105.speed-storage.ru",
+            "port": 573,
+            "users": [
+              {
+                "id": "832f76f8-fca3-4efa-80be-870e123ad764",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "grpcSettings": {
+          "serviceName": "/sequre/grpc/",
+          "authority": "",
+          "mode": false
+        },
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "185.210.154.105.speed-storage.ru",
+          "fingerprint": "chrome"
+        },
+        "sockopt": {
+          "tcpFastOpen": true,
+          "happyEyeballs": {
+            "interleave": 1,
+            "tryDelayMs": 250,
+            "prioritizeIPv6": false,
+            "maxConcurrentTry": 4
+          },
+          "tcpcongestion": "bbr"
+        }
+      },
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 16,
+        "xudpProxyUDP443": "skip"
+      }
+    },
+    {
+      "tag": "germany-3",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "176.124.216.104",
+            "port": 443,
+            "users": [
+              {
+                "id": "832f76f8-fca3-4efa-80be-870e123ad764",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "grpcSettings": {
+          "serviceName": "/sequre/grpc/",
+          "authority": "",
+          "mode": false
+        },
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "64.188.98.68.vhub.pro",
+          "fingerprint": "chrome"
+        },
+        "sockopt": {
+          "tcpFastOpen": true,
+          "happyEyeballs": {
+            "interleave": 1,
+            "tryDelayMs": 250,
+            "prioritizeIPv6": false,
+            "maxConcurrentTry": 4
+          },
+          "tcpcongestion": "bbr"
+        }
+      },
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 16,
+        "xudpProxyUDP443": "skip"
+      }
+    },
+    {
+      "tag": "germany-4",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "147.45.100.149",
+            "port": 443,
+            "users": [
+              {
+                "id": "832f76f8-fca3-4efa-80be-870e123ad764",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "grpcSettings": {
+          "serviceName": "/sequre/grpc/",
+          "authority": "",
+          "mode": false
+        },
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "212.95.39.25.vhub.pro",
+          "fingerprint": "chrome"
+        },
+        "sockopt": {
+          "tcpFastOpen": true,
+          "happyEyeballs": {
+            "interleave": 1,
+            "tryDelayMs": 250,
+            "prioritizeIPv6": false,
+            "maxConcurrentTry": 4
+          },
+          "tcpcongestion": "bbr"
+        }
+      },
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 16,
+        "xudpProxyUDP443": "skip"
+      }
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    }
+  ],
+  "observatory": {
+    "probeUrl": "http://cp.cloudflare.com/generate_204",
+    "probeInterval": "10m",
+    "subjectSelector": [
+      "mobile",
+      "germany"
+    ],
+    "enableConcurrency": true
+  }
+}
 
 vless://WSVPN THE BEST@p000000:443?security=none&encryption=none&headerType=none&type=tcp#um%E2%AC%87%EF%B8%8F
 
