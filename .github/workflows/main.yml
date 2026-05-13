@@ -50,6 +50,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add NOTHINGV5
+          git add NothingV5
           git commit -m "Update traffic only, keeping announce line intact" || exit 0
           git push
