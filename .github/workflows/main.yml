@@ -5,11 +5,15 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+# ДАЕМ КЛЮЧЕВЫЕ ПРАВА НА ЗАПИСЬ В РЕПОЗИТОРИЙ 🔑
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # Обновил до актуальной v4, чтобы не ругалась Node.js
 
       - name: Update Info
         run: |
@@ -33,17 +37,16 @@ jobs:
           # 2. Новая техническая строка
           INFO_LINE="#subscription-userinfo: upload=$USED_UL; download=$USED_DL; total=$TOTAL; expire=$EXPIRE"
           
-          # 3. УМНОЕ ОБНОВЛЕНИЕ:
-          # Удаляем только старую строку subscription-userinfo, всё остальное (включая твой анонс) оставляем как есть
-          if [ -f NOTHINGV5 ]; then
+          # 3. УМНОЕ ОБНОВЛЕНИЕ (Используем везде строго NothingV5):
+          if [ -f NothingV5 ]; then
             # Убираем только строку с userinfo, сохраняем всё остальное во временный файл
-            grep -v "subscription-userinfo:" NOTHINGV5 > body.tmp
+            grep -v "subscription-userinfo:" NothingV5 > body.tmp
             # Записываем новую инфо-строку и добавляем сохраненный остаток
-            echo "$INFO_LINE" > NOTHINGV5
-            cat body.tmp >> NOTHINGV5
+            echo "$INFO_LINE" > NothingV5
+            cat body.tmp >> NothingV5
             rm body.tmp
           else
-            echo "$INFO_LINE" > NOTHINGV5
+            echo "$INFO_LINE" > NothingV5
           fi
 
       - name: Commit changes
@@ -51,5 +54,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add NothingV5
+          # Если изменений вдруг нет, скрипт не упадет, а просто пойдет дальше
           git commit -m "Update traffic only, keeping announce line intact" || exit 0
-          git push
+          git push origin main
