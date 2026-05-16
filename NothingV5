@@ -14,7 +14,7 @@ vless://3bd48b98-b398-448a-8a63-5771057e0135@147.45.111.65:443?security=reality&
 
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE+Finland
 
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@pol.skysafe.online:2034?security=reality&encryption=none&echfq=none&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pol.skysafe.online&sid=fb38c1c83009e1#%F0%9F%87%B5%F0%9F%87%B1+Poland
+vless://25f1947f-63a8-2040-8f3b-b101eed550e7@87.239.107.130:443?path=%2Fupload%2Fsession&security=tls&encryption=none&echfq=none&fp=chrome&allowinsecure=0&type=ws&sni=s1.ws.listwhite.cc#%F0%9F%87%B5%F0%9F%87%B1+Poland
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&type=tcp#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%E2%AC%87%EF%B8%8F
 
