@@ -8,9 +8,9 @@ vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/
 
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?security=tls&encryption=none&echfq=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cl-de-2.edgeflux.ru#%F0%9F%87%A9%F0%9F%87%AA+Germany
 
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@uae.sbrf-cdn342.ru:443?security=tls&encryption=none&alpn=http/1.1&echfq=none&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B3%F0%9F%87%B1+Netherlands
+vless://3bd48b98-b398-448a-8a63-5771057e0135@147.45.111.65:443?security=reality&encryption=none&echfq=none&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ca5096#%F0%9F%87%B3%F0%9F%87%B1+Netherlands%C2%B9
 
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@uae.sbrf-cdn342.ru:443?security=tls&encryption=none&alpn=http/1.1&echfq=none&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B3%F0%9F%87%B1+Netherlands%C2%B2
+vless://3bd48b98-b398-448a-8a63-5771057e0135@147.45.111.65:443?security=reality&encryption=none&echfq=none&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ca5096#%F0%9F%87%B3%F0%9F%87%B1+Netherlands%C2%B2
 
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE+Finland
 
