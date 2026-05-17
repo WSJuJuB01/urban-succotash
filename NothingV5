@@ -30,4 +30,4 @@ vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@45.133.251.23:6443?mode=auto&path=%
 
 vless://5f5114c6-ad1f-4e4a-baad-aacb4634f275@158.160.215.56:443?security=reality&encryption=none&echfq=none&pbk=su8tIyeRdTZZHPvZn1AjBZPCv0_FsI7msHP_s8x4Oj0&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=c3be66103c6cba50#%F0%9F%87%AA%F0%9F%87%BA+Europe+%F0%9F%8F%B3%EF%B8%8F+White+lists%E2%81%B4
 
-vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@212.113.117.239:8443?security=reality&encryption=none&echfq=none&pbk=T6xIzGPsy--IRyF0ts9LgfDka7bDMjOaOKT6zJ1hL1U&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%AA%F0%9F%87%BA+Europe+%F0%9F%8F%B3%EF%B8%8F+White+lists%E2%81%B5
+vless://f4bbb98f-10ca-51eb-afc3-c5327f377aee@server2magic.magicvpssub.ru:8443?security=reality&encryption=none&echfq=none&pbk=pBRwQ8xni7paKPXK0Mlg2FZ1bgOnTaOWG7sioN4t12s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=067b9d#%F0%9F%87%AA%F0%9F%87%BA+Europe+%F0%9F%8F%B3%EF%B8%8F+White+lists%E2%81%B5
