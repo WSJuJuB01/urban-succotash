@@ -8,6 +8,8 @@ vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/
 
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?security=tls&encryption=none&echfq=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cl-de-2.edgeflux.ru#%F0%9F%87%A9%F0%9F%87%AA+Germany
 
+vless://4e11ad7d-a372-4f0d-81c5-a03a52cc8291@68.209.56.154:443?security=reality&encryption=none&echfq=none&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#%F0%9F%87%B3%F0%9F%87%B1+Netherlands
+
 hysteria2://hysteria2_fastlane_uztzycabm:Pa22jzTs4idqco2hE18irkepEte8ThMa@144.31.135.204:1935?security=tls&fm=%7B%7D&allowinsecure=1&sni=nl2.h.fastlanehosting.ru#%F0%9F%87%B3%F0%9F%87%B1Netherlands_HYSTERIA2
 
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE+Finland
