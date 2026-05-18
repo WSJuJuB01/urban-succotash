@@ -42,18 +42,18 @@ jobs:
             # Убираем только строку с userinfo, сохраняем всё остальное во временный файл
             grep -v "subscription-userinfo:" NothingV5 > body.tmp
             # Записываем новую инфо-строку и добавляем сохраненный остаток
-            echo "$INFO_LINE" > NothingV5
-            cat body.tmp >> NothingV5
+            echo "$INFO_LINE" > n0thingV5
+            cat body.tmp >> n0thingV5
             rm body.tmp
           else
-            echo "$INFO_LINE" > NothingV5
+            echo "$INFO_LINE" > n0thingV5
           fi
 
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add NothingV5
+          git add n0thingV5
           # Если изменений вдруг нет, скрипт не упадет, а просто пойдет дальше
           git commit -m "Update traffic only, keeping announce line intact" || exit 0
           git push origin main
