@@ -39,7 +39,8 @@ jobs:
           # 3. УМНОЕ ОБНОВЛЕНИЕ
           if [ -f n0thingV5 ]; then
             echo "$INFO_LINE" > n0thingV5.tmp
-            grep -v "#subscription-userinfo:" n0thingV5 >> n0thingV5.tmp
+            # Добавлен || true, чтобы экшен не падал, если старой строки нет
+            grep -v "#subscription-userinfo:" n0thingV5 >> n0thingV5.tmp || true
             mv n0thingV5.tmp n0thingV5
           else
             echo "$INFO_LINE" > n0thingV5
