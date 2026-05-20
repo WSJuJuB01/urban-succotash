@@ -1,11 +1,24 @@
+name: Update Traffic Info
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
       - name: Update Info
         run: |
-          # 0. Задаем имя файла ОДИН раз, чтобы не путаться в регистре
-          CONFIG_FILE="n0thingV5"
-
           # 1. Считаем время и трафик
-          START_DATE=$(date -d "2026-04-22 20:00:00" +%s)
-          NOW=$(date +%s)
+          START_DATE=$(date -d "2026-04-22 20:00:00" "+%s")
+          NOW=$(date "+%s")
 
           SECONDS_DIFF=$(( NOW - START_DATE ))
           [ $SECONDS_DIFF -lt 0 ] && SECONDS_DIFF=0
@@ -18,21 +31,24 @@
           USED_DL=$TOTAL_USED
           USED_UL=$TOTAL_USED
           TOTAL=1125899906842624
-          EXPIRE=3803752800
+          EXPIRE=3803732800
 
           # 2. Новая техническая строка
           INFO_LINE="#subscription-userinfo: upload=$USED_UL; download=$USED_DL; total=$TOTAL; expire=$EXPIRE"
 
-          # 3. НАСТОЯЩЕЕ УМНОЕ ОБНОВЛЕНИЕ:
-          if [ -f "$CONFIG_FILE" ]; then
-            # Убираем только старую строку с userinfo, сохраняем ВСЁ остальное во временный файл
-            grep -v "subscription-userinfo:" "$CONFIG_FILE" > body.tmp
-            # Записываем новую инфо-строку (перезаписываем файл >)
-            echo "$INFO_LINE" > "$CONFIG_FILE"
-            # Добавляем сохраненный остаток конфига (дописываем >>)
-            cat body.tmp >> "$CONFIG_FILE"
-            rm body.tmp
+          # 3. УМНОЕ ОБНОВЛЕНИЕ
+          if [ -f n0thingV5 ]; then
+            echo "$INFO_LINE" > n0thingV5.tmp
+            grep -v "#subscription-userinfo:" n0thingV5 >> n0thingV5.tmp
+            mv n0thingV5.tmp n0thingV5
           else
-            # Если файла вообще не было, просто создаем его с инфо-строкой
-            echo "$INFO_LINE" > "$CONFIG_FILE"
+            echo "$INFO_LINE" > n0thingV5
           fi
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add n0thingV5
+          git commit -m "Update traffic only, keeping announce line intact" || exit 0
+          git push origin main
