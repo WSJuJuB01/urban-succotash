@@ -8,17 +8,11 @@ vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/
 
 vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@152.53.224.29:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=be0ce047#%F0%9F%87%A9%F0%9F%87%AA+Germany
 
-hysteria2://hysteria2_fastlane_210pha9tw:vpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935?security=tls&fm=%7B%7D&allowinsecure=1&sni=de2.h.fastlanehosting.ru#%F0%9F%87%A9%F0%9F%87%AA+Germany_HYSTERIA2
-
 vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@144.48.10.10:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d82fb387#%F0%9F%87%B3%F0%9F%87%B1+Netherlands
 
-vless://fa4d12f8-4d4f-0021-a8a6-7ced1db6cf91@fl.musicperec.ru:443?security=reality&encryption=none&echfq=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=4a7b1c8d#%F0%9F%87%AB%F0%9F%87%AE+Finland
-
-hysteria2://hysteria2_fastlane_ed99tc97i:JDjsjhZmEc98478274854651KbAIX6HznIHXkeIwqAYbJN@64.188.74.69:1935?security=tls&fm=%7B%7D&allowinsecure=1&sni=fn1.h.fastlanehosting.ru#%F0%9F%87%AB%F0%9F%87%AE+Finland_HYSTERIA2
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@fin.kalina.click:443?security=reality&encryption=none&echfq=none&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fin.kalina.click&sid=a4f4f4c7b701326e#%F0%9F%87%AB%F0%9F%87%AE+Finland
 
 vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@95.85.255.240:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=d82fb387#%F0%9F%87%B5%F0%9F%87%B1+Poland
-
-hysteria2://hysteria2_fastlane_fur39yrgc:4hwuV1rbgM9x9MqtdBRynHns19kPd32F@2.27.28.103:1935?security=tls&fm=%7B%7D&allowinsecure=1&sni=de4.h.fastlanehosting.ru#%F0%9F%87%B5%F0%9F%87%B1+Poland_HYSTERIA2
 
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&echfq=none&host=daluan.eu.org&fp=chrome&allowinsecure=0&type=ws&sni=daluan.eu.org#%F0%9F%87%AA%F0%9F%87%BA+Europe
 
