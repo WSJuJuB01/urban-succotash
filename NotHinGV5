@@ -8,7 +8,9 @@ vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/
 
 vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@204.11.2.30:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=be0ce047#%F0%9F%87%A9%F0%9F%87%AA+Germany
 
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@152.53.60.232:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=be0ce047#%F0%9F%87%B3%F0%9F%87%B1+Netherlands
+vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@64.188.90.35:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=d82fb387#%F0%9F%87%B3%F0%9F%87%B1+Netherlands
+
+vless://18cb2d66-0cd7-4cfb-afa5-e70296160a95@est2.connectalternative.org:25445?security=reality&encryption=none&echfq=none&pbk=w7eZn9X1caM7TOn_6_wBvFv30NSOGRNePSpH85PPX0Y&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.apple.com&sid=f383f24a3f6778ce#%F0%9F%87%AA%F0%9F%87%AA++Estonia+35gb%2Fm
 
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&echfq=none&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%AA%F0%9F%87%BA+Europe
 
