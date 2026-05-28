@@ -12,16 +12,14 @@ vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@64.188.90.35:7443?security=reality&
 
 vless://18cb2d66-0cd7-4cfb-afa5-e70296160a95@est2.connectalternative.org:25445?security=reality&encryption=none&echfq=none&pbk=w7eZn9X1caM7TOn_6_wBvFv30NSOGRNePSpH85PPX0Y&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.apple.com&sid=f383f24a3f6778ce#%F0%9F%87%AA%F0%9F%87%AA++Estonia+35gb%2Fm
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&echfq=none&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%AA%F0%9F%87%BA+Europe
-
 vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20.blanesik.space:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=grpc.vhub.pro&echfq=none&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc&sni=185.14.46.20.blanesik.space#%F0%9F%87%B7%F0%9F%87%BA+%F0%9F%93%BA+YouTube+no+ads
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%BF%D1%80%D0%B8+%D0%B1%D1%81%E2%AC%87%EF%B8%8F
 
 vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#%F0%9F%87%B3%F0%9F%87%B1+%F0%9F%8F%B3+White+lists%C2%B9
 
-vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%C2%B2
+vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#%F0%9F%87%B3%F0%9F%87%B1+%F0%9F%8F%B3+White+lists%C2%B2
 
-vless://01cf5781-5948-11f1-9a67-dc08fb041e0d@72.56.33.191:443?security=reality&encryption=none&echfq=none&pbk=2IAFC23dkBm2ZRPTcxSWZ5YkpVxJufIIZn3-aSPRH10&headerType=none&fp=randomized&spx=%2Fad%2F8611949&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%C2%B3
+vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#%F0%9F%87%B3%F0%9F%87%B1+%F0%9F%8F%B3+White+lists%C2%B3
 
 vless://3962c909-0053-4e8c-b98b-894739006e67@hole4.vz-or.com:443?security=reality&encryption=none&echfq=none&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=abbcd128#%F0%9F%87%B5%F0%9F%87%B1+%F0%9F%8F%B3+White+lists%E2%81%B4+%28Megafon%2C+Yota%29
