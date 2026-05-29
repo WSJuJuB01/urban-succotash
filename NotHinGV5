@@ -20,12 +20,10 @@ vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20.blanesik.space:443?mod
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%BF%D1%80%D0%B8+%D0%B1%D1%81%E2%AC%87%EF%B8%8F
 
-vless://5939f963-f4bc-4c01-ae6b-44b818d52508@51.250.66.119:443?security=reality&encryption=none&echfq=none&pbk=6efMZQW-QEyBlfPK2yMNNax68OSrRow-FT9m3aRgrRo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8f34383988cd0965#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%C2%B9
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?security=reality&encryption=none&echfq=none&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=a9ff#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%C2%B9
 
-vless://5939f963-f4bc-4c01-ae6b-44b818d52508@84.201.135.155:443?security=reality&encryption=none&echfq=none&pbk=UHGjVgtwSlQPrbSCWuZC4zJ3i77nRqTsfbe_1ROSsGk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=18e0fe7e5e69b288#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%C2%B2
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?security=reality&encryption=none&echfq=none&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=a9ff#%F0%9F%87%B5%F0%9F%87%B1+%F0%9F%8F%B3+White+lists%C2%B2
 
 vless://a5c689ce-ef93-0190-8b74-3dbe2287d71b@185.247.185.238:443?security=reality&encryption=none&echfq=none&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&headerType=none&fp=firefox&allowinsecure=0&type=tcp&sni=ads.x5.ru#%F0%9F%87%B8%F0%9F%87%AA+%F0%9F%8F%B3+White+lists%C2%B3
 
-vless://5939f963-f4bc-4c01-ae6b-44b818d52508@84.201.135.155:443?security=reality&encryption=none&echfq=none&pbk=UHGjVgtwSlQPrbSCWuZC4zJ3i77nRqTsfbe_1ROSsGk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=18e0fe7e5e69b288#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%E2%81%B4
-
-vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@5.231.202.95:443?security=reality&encryption=none&echfq=none&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&headerType=none&fp=firefox&allowinsecure=0&type=tcp&sni=cloudrynth.com#%F0%9F%87%A9%F0%9F%87%AA+%F0%9F%8F%B3+White+lists%E2%81%B5
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?security=reality&encryption=none&echfq=none&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=a9ff#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%E2%81%B4
