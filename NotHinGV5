@@ -29,3 +29,5 @@ vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&en
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?security=reality&encryption=none&echfq=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%B5%F0%9F%87%B1+%F0%9F%8F%B3+White+lists%E2%81%B4
 
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?security=reality&encryption=none&echfq=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%A9%F0%9F%87%AA+%F0%9F%8F%B3+White+lists%E2%81%B5
+
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?security=reality&encryption=none&echfq=none&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.ru&sid=8237eb#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%E2%81%B6
