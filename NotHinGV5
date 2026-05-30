@@ -18,7 +18,7 @@ vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20.blanesik.space:443?mod
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%BF%D1%80%D0%B8+%D0%B1%D1%81%E2%AC%87%EF%B8%8F
 
-vless://fc71b20a-e8d9-4750-94b3-531feab09e82@176.109.101.215:8083?security=reality&encryption=none&echfq=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=qq&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=7dbf7d3233971d5c#%F0%9F%87%AB%F0%9F%87%AE+%F0%9F%8F%B3+White+lists%C2%B9
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&echfq=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=08000000#%F0%9F%87%B7%F0%9F%87%BA+%F0%9F%8F%B3+White+lists%C2%B9
 
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?security=reality&encryption=none&echfq=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%AB%F0%9F%87%AE+%F0%9F%8F%B3+White+lists%C2%B2
 
