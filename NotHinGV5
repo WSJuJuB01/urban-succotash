@@ -14,6 +14,8 @@ vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@204.11.2.30:7443?security=reality&e
 
 vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@45.144.220.142:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=be0ce047#%F0%9F%87%B3%F0%9F%87%B1+Netherlands
 
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&allowinsecure=0&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=deadbeef#%F0%9F%87%AA%F0%9F%87%BA+Europe
+
 vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20.blanesik.space:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=grpc.vhub.pro&echfq=none&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc&sni=185.14.46.20.blanesik.space#%F0%9F%87%B7%F0%9F%87%BA+%F0%9F%93%BA+YouTube+no+ads
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%BF%D1%80%D0%B8+%D0%B1%D1%81%E2%AC%87%EF%B8%8F
