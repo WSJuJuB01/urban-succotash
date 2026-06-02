@@ -8,15 +8,13 @@ vless://hello00000hksvj000@WSVPN00000000000-0000000:443?security=tls&encryption=
 
 vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/1.1&echfq=none&headerType=none&fp=randomized&allowinsecure=0&type=tcp&sni=max.comedy#Обычные сервера⬇️
 
-vless://c4d69096-4026-4da5-9485-20a3da91cb14@0ru35.tcpdoor.net:7443?mode=gun&security=reality&alpn=h3&encryption=none&pbk=qj9jDHuvhBV15-FoXJ42Qe_ZkvppLY0KHTS1SAlZgmg&fp=firefox&type=grpc&serviceName=grpc&sni=video.tcpnet.fun&sid=9510ee26#🇩🇪 Germany
+vless://e93998e0-dd6a-4234-be21-362bcc66f926@de-as2.connect-iskra.cv:8443?security=reality&encryption=none&echfq=none&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz&sid=65b5280b52e0532c#🇩🇪 Germany
 
-vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality&encryption=none&echfq=none&pbk=-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sni4.streisand.lt&sid=612d8fa72c#🇳🇱 Netherlands
+vless://e93998e0-dd6a-4234-be21-362bcc66f926@117.55.203.204:8443?security=reality&encryption=none&echfq=none&pbk=JzqgD1kR5xVXfl4VkI-2tvFaRpK3ad0ZRTI4RUwyLWk&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🇳🇱 Netherlands
 
-vless://c359d107-c1b1-4b71-811d-5040b898f2a7@fvpn.me:443?path=%2Fws&security=tls&encryption=none&echfq=none&host=fvpn.me&allowinsecure=0&type=ws&sni=fvpn.me#🇱🇻 Latvia
+trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&host=www.creationlong.org&allowinsecure=0&type=ws&sni=www.creationlong.org#🇵🇱 Poland
 
-vless://abd468c8-a9d9-40b7-b70d-6c7948c37bb2@cdn-cz-cf.barryvpn.com:8443?security=reality&encryption=none&echfq=none&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=ae#🇨🇿 Czech
-
-vless://99f1fc84-29a9-4715-bc60-e25fc4f56ff9@drm3y.videoaiconverter.com:8081?security=reality&alpn=h3&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=4326#📺 YouTube no ads
+vless://e93998e0-dd6a-4234-be21-362bcc66f926@lv.connect-iskra.cv:8443?security=reality&encryption=none&echfq=none&pbk=Xhw97dnfriknd-7X9PeeTfcYW1a-CP-atu_EcGNWFiY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mediarush.xyz&sid=3fde628f5ea2ba6f#🇱🇻 Latvia
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#При белых списках⬇️
 
