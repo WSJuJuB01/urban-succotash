@@ -8,6 +8,8 @@ vless://hello00000hksvj000@WSVPN00000000000-0000000:443?security=tls&encryption=
 
 vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/1.1&echfq=none&headerType=none&fp=randomized&allowinsecure=0&type=tcp&sni=max.comedy#Обычные сервера⬇️
 
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&echfq=none&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&host=www.amd.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=41774dc9dc721e#🇪🇪 Estonia
+
 vless://e93998e0-dd6a-4234-be21-362bcc66f926@de-as2.connect-iskra.cv:8443?security=reality&encryption=none&echfq=none&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz&sid=65b5280b52e0532c#🇩🇪 Germany
 
 vless://e93998e0-dd6a-4234-be21-362bcc66f926@117.55.203.204:8443?security=reality&encryption=none&echfq=none&pbk=JzqgD1kR5xVXfl4VkI-2tvFaRpK3ad0ZRTI4RUwyLWk&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🇳🇱 Netherlands
