@@ -34,8 +34,12 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?security=tls&encr
 
 vless://c359d107-c1b1-4b71-811d-5040b898f2a7@195.123.208.49:443?security=reality&encryption=none&echfq=none&pbk=IDNJhbUjos8DU-dt5ZiCqxo5NlGlsDHWMUAkIaOtDlc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f66c65e5ab848eab#🇱🇻 Lavia
 
-vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇷🇺 📺 YouTube no ads
+vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@ru.memeplanet.org:443?security=reality&encryption=none&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mydogcollections.com&sid=653253254366#🇷🇺 📺 YouTube no ads
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#При белых списках⬇️
 
-vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#На тех обслуживании🐈‍⬛
+vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@46.8.209.123:443?mode=gun&security=reality&encryption=none&authority=&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=ads.x5.ru&sid=9078b6e380e60ac7#🇪🇺 🏳 White lists¹
+
+vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@46.8.209.122:443?mode=gun&security=reality&encryption=none&authority=&pbk=7oymTopNbHUmyJSSmJDVgb7E0usD7nhzaV35tKBHWgg&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=alpha4.minigames.mail.ru&sid=9078b8e380e60ac8#🇪🇺 🏳 White lists²
+
+vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@84.201.174.25:443?mode=gun&security=reality&encryption=none&authority=&pbk=dF9CDDUffnzSv4opnPvxNtV7YxGYLWE79YltK98uzgE&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=jump.x5.ru#🇪🇺 🏳 White lists³ (Megafon)
