@@ -8,7 +8,9 @@ vless://hello00000hksvj000@WSVPN00000000000-0000000:443?security=tls&encryption=
 
 vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/1.1&echfq=none&headerType=none&fp=randomized&allowinsecure=0&type=tcp&sni=max.comedy#Обычные сервера⬇️
 
-vless://e93998e0-dd6a-4234-be21-362bcc66f926@95.128.71.74:443?security=reality&encryption=none&echfq=none&pbk=rfed3aqchLeWtXyEl3AsbPGODbqXdx-3Mq41JVPQWVY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz#🇧🇾 Belaruss 200Gb/d
+vless://e93998e0-dd6a-4234-be21-362bcc66f926@95.128.71.74:443?security=reality&encryption=none&echfq=none&pbk=rfed3aqchLeWtXyEl3AsbPGODbqXdx-3Mq41JVPQWVY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz#🇧🇾 Belaruss¹ 200Gb/d
+
+vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&allowinsecure=0&type=grpc&serviceName=&sni=5post-gate.x5.ru#🇧🇾 Belaruss²
 
 vless://5f230810-7270-4b03-b802-329a4ad8d0b2@144.31.0.48:2097?mode=stream-up&path=%2F&security=reality&encryption=none&echfq=none&pbk=KE4sXLqi-C6ar7WX9dtbVyAcc1KeevWKvHfqacR5wEk&host=www.nvidia.com&fp=safari&allowinsecure=0&type=xhttp&sni=www.nvidia.com&sid=c25471687f078fbd#🇫🇮 Finland
 
@@ -28,14 +30,10 @@ vless://8ed27b15-30a6-42a2-af38-e4dc675ee17e@144.31.237.74:603?mode=gun&security
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=0&type=tcp&sni=pl1.fromblancwithlove.com#🇵🇱 Poland
 
+vless://c359d107-c1b1-4b71-811d-5040b898f2a7@195.123.208.49:443?security=reality&encryption=none&echfq=none&pbk=IDNJhbUjos8DU-dt5ZiCqxo5NlGlsDHWMUAkIaOtDlc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f66c65e5ab848eab#🇱🇻 Lavia
+
+vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇷🇺 📺 YouTube no ads
+
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#При белых списках⬇️
 
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?security=reality&encryption=none&echfq=none&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇪🇪 🏳 White lists¹
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?security=tls&encryption=none&echfq=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇩🇪 🏳 White lists²
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?security=tls&encryption=none&echfq=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇩🇪 🏳 White lists³
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&encryption=none&echfq=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇳🇱 🏳 White lists⁴
-
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?security=tls&encryption=none&echfq=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇳🇱 🏳 White lists⁵
+vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#На тех обслуживании🐈‍⬛
