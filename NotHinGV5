@@ -9,13 +9,9 @@ vless://hello00000hksvj000@WSVPN00000000000-0000000:443?security=tls&encryption=
 
 vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/1.1&echfq=none&headerType=none&fp=randomized&allowinsecure=0&type=tcp&sni=max.comedy#Обычные сервера⬇️
 
-vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&allowinsecure=0&type=grpc&serviceName=&sni=5post-gate.x5.ru#🇧🇾 Belaruss
-
 vless://5f230810-7270-4b03-b802-329a4ad8d0b2@144.31.0.48:2097?mode=stream-up&path=%2F&security=reality&encryption=none&echfq=none&pbk=KE4sXLqi-C6ar7WX9dtbVyAcc1KeevWKvHfqacR5wEk&host=www.nvidia.com&fp=safari&allowinsecure=0&type=xhttp&sni=www.nvidia.com&sid=c25471687f078fbd#🇫🇮 Finland
 
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&echfq=none&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&host=www.amd.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=41774dc9dc721e#🇪🇪 Estonia
-
-vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443?path=%2Fnl-tw&security=tls&encryption=none&echfq=none&host=m.udemy.com.r3xxe.eu.cc&allowinsecure=0&type=ws&sni=m.udemy.com.r3xxe.eu.cc#🇪🇺 Europe
 
 vless://e93998e0-dd6a-4234-be21-362bcc66f926@de-as2.connect-iskra.cv:8443?security=reality&encryption=none&echfq=none&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz&sid=65b5280b52e0532c#🇩🇪 Germany¹ 200Gb/d
 
