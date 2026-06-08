@@ -15,13 +15,15 @@ vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?mode=packet-u
 
 vless://e93998e0-dd6a-4234-be21-362bcc66f926@de-as2.connect-iskra.cv:8443?security=reality&encryption=none&echfq=none&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz&sid=65b5280b52e0532c#🇩🇪 Germany¹ 200Gb/d
 
-vless://7b241232-208d-4d36-857e-913f91b044f4@desrv-res.noooo.win:443?security=tls&encryption=none&alpn=h2&echfq=none&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#🇩🇪 Germany²
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?mode=packet-up&path=%2Fvk&security=tls&encryption=none&echfq=none&allowinsecure=0&type=xhttp&sni=de-xh-01.hpdata.click#🇩🇪 Germany²
 
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-4.1001notes.ru:443?mode=packet-up&path=%2Fvk&security=tls&encryption=none&echfq=none&fp=chrome&allowinsecure=0&type=xhttp&sni=ru-vk-4.1001notes.ru#🇳🇱 Netherlands
 
 vless://dadf858c-6c44-4cbf-8615-198af572d279@fastq.phantom.direct:443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=uXXzayGWNo5UTxFBjiGqrVeIAYvkjXH_FiImT3ppWl4&fp=firefox&allowinsecure=0&type=grpc&serviceName=&sni=api-maps.yandex.ru&sid=ca44c9d3de89a7f5#🇪🇺 Europe
 
 vless://5f230810-7270-4b03-b802-329a4ad8d0b2@144.31.0.143:2093?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=6kyLhp0owvaskC8Xz8SqFUStmKiRvsA4MnEiAoRayWo&fp=edge&allowinsecure=0&type=grpc&serviceName=grpc&sni=www.nvidia.com&sid=edc38f5bf243038a#🇨🇿 Czech
+
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&echfq=none&host=Itsrezu2.dr-ping.com&fp=chrome&allowinsecure=0&type=xhttp&sni=Itsrezu2.dr-ping.com#🇨🇾 Cyprus
 
 vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?security=reality&encryption=none&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇷🇺 Russia¹
 
