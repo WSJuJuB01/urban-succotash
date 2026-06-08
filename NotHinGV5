@@ -25,7 +25,9 @@ vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-4.1001notes.ru:443?mode=packe
 
 vless://5f230810-7270-4b03-b802-329a4ad8d0b2@144.31.0.143:2093?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=6kyLhp0owvaskC8Xz8SqFUStmKiRvsA4MnEiAoRayWo&fp=edge&allowinsecure=0&type=grpc&serviceName=grpc&sni=www.nvidia.com&sid=edc38f5bf243038a#🇨🇿 Czech
 
-vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?security=reality&encryption=none&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇷🇺 Russia
+vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?security=reality&encryption=none&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇷🇺 Russia¹
+
+vless://c55be96b-4ea6-4667-bb8b-7dab80ad2495@fastsel.phantom.direct:443?echfq=none&fp=firefox&type=grpc&serviceName=&sni=max.ru&sid=6443b9dc206d65e9&mode=gun&security=reality&encryption=none&authority=&pbk=Sz3JU9p7D-jCL8Wr-9Vge8EDoJfFlja6UI3x0vvQNl8&spx=%2F&allowinsecure=0#🇷🇺 Russia²
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#При белых списках⬇️
 
