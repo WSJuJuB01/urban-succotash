@@ -31,4 +31,16 @@ vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=0000
 
 vless://e56c8627-e0e6-Fade-9526-bf7e4756936b@62.152.60.36:443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=HTUtAwP3VECDvFHeQu1r200W8NxhvAQ8mwZ25HVdTjU&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=15cb5b2200896514#🇪🇺 🏳 White lists¹
 
-vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#Остальное на обслуживании🐈‍⬛
+vless://5d5586a3-b5f3-40ac-bab2-2f36bc60ec0b@78.159.250.16:443?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&fp=qq&allowinsecure=0&type=grpc&serviceName=&sni=ads.x5.ru&sid=846229eb47b3a5c9#🇷🇺 🏳 White lists²
+
+vless://5d5586a3-b5f3-40ac-bab2-2f36bc60ec0b@78.159.250.16:9443?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&fp=qq&allowinsecure=0&type=grpc&serviceName=&sni=st.ozone.ru&sid=846229eb47b3a5c9#🇷🇺 🏳 White lists³
+
+vless://5d5586a3-b5f3-40ac-bab2-2f36bc60ec0b@78.159.250.16:8443?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&fp=qq&allowinsecure=0&type=grpc&serviceName=&sni=5post-gate.x5.ru&sid=846229eb47b3a5c9#🇷🇺 🏳 White lists⁴
+
+vless://5d5586a3-b5f3-40ac-bab2-2f36bc60ec0b@5.188.115.153:443?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=FDrNbkUYPJS7uzUhgVsNuT8-TqXNeDm7bc24NgTM5GY&fp=firefox&allowinsecure=0&type=grpc&serviceName=&sni=ads.x5.ru&sid=846229eb47b3a5c9#🇷🇺 🏳 White lists⁵
+
+vless://5d5586a3-b5f3-40ac-bab2-2f36bc60ec0b@37.9.4.125:443?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=-pNcR_wMIbwNYzMNv2Ql3WNhWAQ9Jq8hote4o33y4jw&fp=qq&allowinsecure=0&type=grpc&serviceName=&sni=ads.x5.ru&sid=846229eb47b3a5c9#🇷🇺 🏳 White lists⁶
+
+vless://5d5586a3-b5f3-40ac-bab2-2f36bc60ec0b@5.188.115.153:9443?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=FDrNbkUYPJS7uzUhgVsNuT8-TqXNeDm7bc24NgTM5GY&fp=firefox&allowinsecure=0&type=grpc&serviceName=&sni=st.ozone.ru&sid=846229eb47b3a5c9#🇷🇺 🏳 White lists⁷
+
+vless://5d5586a3-b5f3-40ac-bab2-2f36bc60ec0b@37.9.4.125:9443?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=-pNcR_wMIbwNYzMNv2Ql3WNhWAQ9Jq8hote4o33y4jw&fp=qq&allowinsecure=0&type=grpc&serviceName=&sni=m.vk.ru&sid=846229eb47b3a5c9#🇷🇺 🏳 White lists⁸
