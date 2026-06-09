@@ -1,5 +1,5 @@
 #subscription-userinfo: upload=9847827499; download=9847827499; total=112589990684; expire=3803732800
-#announce: WSVPN это VPN где ты можешь чувсвовать себя спокойным :)
+#announce: WSVPN это VPN где ты можешь чувсвовать себя спокойным :) источник конфигов если мне лесь свои серваки натраивать: @RaViraNet
 #profile-title: WSVPN🐈‍⬛
 #profile-web-page-url:https://t.me/WS_JuJuB01_vpn_keys
 #hide-settings: 1
@@ -9,20 +9,32 @@ vless://hello00000hksvj000@WSVPN00000000000-0000000:443?security=tls&encryption=
 
 vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/1.1&echfq=none&headerType=none&fp=randomized&allowinsecure=0&type=tcp&sni=max.comedy#Обычные сервера⬇️
 
-vless://5f230810-7270-4b03-b802-329a4ad8d0b2@144.31.0.48:2097?mode=stream-up&path=%2F&security=reality&encryption=none&echfq=none&pbk=KE4sXLqi-C6ar7WX9dtbVyAcc1KeevWKvHfqacR5wEk&host=www.nvidia.com&fp=safari&allowinsecure=0&type=xhttp&sni=www.nvidia.com&sid=c25471687f078fbd#🇫🇮 Finland
+vless://b0276310-5e06-45b1-b2e5-1d74c429825d@fl-modx.webedg.net:443?security=reality&encryption=none&echfq=none&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl-modx.webedg.net#🇫🇮 Finland
 
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&echfq=none&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&host=www.amd.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=41774dc9dc721e#🇪🇪 Estonia
 
+vless://e93998e0-dd6a-4234-be21-362bcc66f926@92.118.115.115:8443?security=reality&encryption=none&echfq=none&pbk=z538Mk_CU2QHZLXvH3b65qFHXUMhQ9xQKVAtee2nKkY&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz#🇰🇿 Kazachstan
+
 vless://e93998e0-dd6a-4234-be21-362bcc66f926@de-as2.connect-iskra.cv:8443?security=reality&encryption=none&echfq=none&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz&sid=65b5280b52e0532c#🇩🇪 Germany¹ 200Gb/d
+
+vless://ec8c34f4-3576-4138-b847-61d177367e09@ru-2.videoproeditor.com:443?security=reality&encryption=none&echfq=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#🇩🇪 Germany²
 
 vless://5f230810-7270-4b03-b802-329a4ad8d0b2@144.31.0.143:2093?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=6kyLhp0owvaskC8Xz8SqFUStmKiRvsA4MnEiAoRayWo&fp=edge&allowinsecure=0&type=grpc&serviceName=grpc&sni=www.nvidia.com&sid=edc38f5bf243038a#🇨🇿 Czech
 
 vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&echfq=none&host=Itsrezu2.dr-ping.com&fp=chrome&allowinsecure=0&type=xhttp&sni=Itsrezu2.dr-ping.com#🇨🇾 Cyprus
 
-vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?security=reality&encryption=none&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇷🇺 Russia¹
-
-vless://c55be96b-4ea6-4667-bb8b-7dab80ad2495@fastsel.phantom.direct:443?echfq=none&fp=firefox&type=grpc&serviceName=&sni=max.ru&sid=6443b9dc206d65e9&mode=gun&security=reality&encryption=none&authority=&pbk=Sz3JU9p7D-jCL8Wr-9Vge8EDoJfFlja6UI3x0vvQNl8&spx=%2F&allowinsecure=0#🇷🇺 Russia²
+vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?security=reality&encryption=none&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇷🇺 Russia
 
 vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#При белых списках⬇️
 
-vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=00000000&headerType=none&type=tcp#На тех обслуживании🐈‍⬛
+vless://fba7cce4-5093-4093-8109-0072d2d56f95@89.208.197.6:443?security=reality&encryption=none&echfq=none&pbk=YbSMmjuRFkilXmQH_RZ9uDFwA17yDulRSTBHRVilzXs&headerType=none&fp=chrome&spx=%2Fvideo&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=a3dbdfb829#🇷🇺 🏳 White lists¹
+
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@46.229.215.189:8443?security=reality&encryption=none&echfq=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net#🇷🇺 🏳 White lists²
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 🏳 White lists³
+
+vless://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.254:8443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&fp=firefox&allowinsecure=0&type=grpc&serviceName=%2Fapi&sni=loadtest.dev.urent.ru&sid=3722621913893e97#🇷🇺 🏳 White lists⁴
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 🏳 White lists⁵
+
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@31.56.188.85:8443?security=reality&encryption=none&echfq=none&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vk.ru#🇵🇱 🏳 White lists⁶
